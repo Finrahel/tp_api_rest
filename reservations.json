@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "id du véhicule": 1,
+    "Nom du réservataire": "Jeanne Primeau",
+    "Numéro de permis": "4586315789156",
+    "Date de réservation": "02/03/2021",
+    "Date de retour prévue": "06/03/2021"
+  },
+  {
+    "id": 2,
+    "id du véhicule": 2,
+    "Nom du réservataire": "Carole Laforest",
+    "Numéro de permis": "7458321684529",
+    "Date de réservation": "19/05/2021",
+    "Date de retour prévue": "23/05/2021"
+  },
+  {
+    "id": 3,
+    "id du véhicule": 3,
+    "Nom du réservataire": "Cammile Bernier",
+    "Numéro de permis": "4287631249782",
+    "Date de réservation": "22/09/2021",
+    "Date de retour prévue": "31/09/2021"
+  },
+  {
+    "id": 4,
+    "id du véhicule": 4,
+    "Nom du réservataire": "Mavise Boileau",
+    "Numéro de permis": "5971345897612",
+    "Date de réservation": "15/02/2021",
+    "Date de retour prévue": "23/02/2021"
+  },
+  {
+    "id": 5,
+    "id du véhicule": 5,
+    "Nom du réservataire": "Thomas Goulet",
+    "Numéro de permis": "8423472194538",
+    "Date de réservation": "08/12/2021",
+    "Date de retour prévue": "16/12/2021"
+  },
+  {
+    "id": 6,
+    "id du véhicule": 3,
+    "Nom du réservataire": "Huette Louineaux",
+    "Numéro de permis": "4876132546870",
+    "Date de réservation": "15/08/2021",
+    "Date de retour prévue": "26/08/2021"
+  },
+  {
+    "id": 7,
+    "id du véhicule": 2,
+    "Nom du réservataire": "Gaston Carignan",
+    "Numéro de permis": "2349751423549",
+    "Date de réservation": "26/03/2021",
+    "Date de retour prévue": "5/04/2021"
+  }
+]

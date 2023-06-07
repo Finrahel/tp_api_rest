@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "Numéro d'immatriculation": "OM-844-XE",
+    "type de véhicule": "camion",
+    "Lieu de stationnement": "Paris",
+    "Type de motorisation": "thermique"
+  },
+  {
+    "id": 2,
+    "Numéro d'immatriculation": "FF-546-IY",
+    "type de véhicule": "utilitaire",
+    "Lieu de stationnement": "Lile",
+    "Type de motorisation": "hybride"
+  },
+  {
+    "id": 3,
+    "Numéro d'immatriculation": "SN-167-QC",
+    "type de véhicule": "utilitaire",
+    "Lieu de stationnement": "Amiens",
+    "Type de motorisation": "thermique"
+  },
+  {
+    "id": 4,
+    "Numéro d'immatriculation": "RV-154-XG",
+    "type de véhicule": "voiture personelle",
+    "Lieu de stationnement": "paris",
+    "Type de motorisation": "électrique"
+  },
+  {
+    "id": 5,
+    "Numéro d'immatriculation": "FD-704-WJ",
+    "type de véhicule": "voiture personnelle",
+    "Lieu de stationnement": "Rouen",
+    "Type de motorisation": "hybride"
+  }
+]
